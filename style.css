@@ -1,0 +1,24 @@
+
+#email{
+    padding: 5px 125px;
+    
+    size:70;
+}
+
+
+
+#password{
+    padding: 5px 125px;
+    box-sizing: 50px;
+    size: 70;
+}
+
+
+#submit{
+    padding: 5px 50px;
+    border-radius: 7px;
+}
+
+
+
+
